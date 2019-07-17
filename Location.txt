@@ -8,4 +8,12 @@ Updated on Master
 
 Adding changes to file on Branch Left
 
+<<<<<<< HEAD
 This is new change on master
+=======
+Adding changes to file on Branch Left
+
+
+
+this is new comment for Left Branch
+>>>>>>> LeftB
